@@ -1,2 +1,2 @@
 # Unity-Meditation-App
-A Christian Meditation App 
+An open-source Christian meditation app built with React Native + Expo.
