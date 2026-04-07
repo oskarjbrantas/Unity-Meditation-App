@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Unity Meditation",
+    "slug": "unity-meditation",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "unity-meditation",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#FAF9F6"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.yourname.unitymeditation"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FAF9F6"
+      },
+      "package": "com.yourname.unitymeditation"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ]
+  }
+}
